@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue','Titillium Web',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.heading {
+  font-weight: 700;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.subheading {
+  font-weight: 500;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: larger;
+  font-style: oblique;
+}
+.text1{
+  font-weight: 300;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 3ch;
+  font-style: oblique;
+  text-align: start;
+}
